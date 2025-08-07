@@ -39,19 +39,6 @@ When I'm not coding, you’ll find me exploring new tech, writing **tech blogs**
 </div>
 
 ---
-
-### 📌 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-<!-- Automatically updated via GitHub Actions -->
-<!-- Use this: https://github.com/Readme-Workflows/Readme-Activity-Graph -->
-<!-- Example: https://github.com/Readme-Workflows/recent-activity -->
-<!-- You must install the GitHub App for it to work -->
-<!-- https://github.com/apps/recent-activity -->
-<!--END_SECTION:activity-->
-
-> ⚠️ *To show your latest commits and activity here, install the “Recent Activity” GitHub App: [Click here to install](https://github.com/apps/recent-activity)*
-
 ---
 
 ### 🔗 Connect with Me
