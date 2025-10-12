@@ -12,9 +12,13 @@ My work spans across frontend, backend, and AI pipelines — from developing res
 ### 🧠 Tech Stack Highlights
 
 Languages: Python, Java, JavaScript,C.
+
 Frameworks & Tools: React, Next.js, Flask, Spring Boot,Fast API.
+
 Databases: MongoDB, MySQL
+
 ML/AI: TensorFlow, scikit-learn, OpenCV
+
 Version Control & Deployment: GitHub, Vercel, Netlify
 
 When I’m not coding, I’m usually exploring new AI trends, contributing to open source, or attending developer community events.
