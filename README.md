@@ -56,7 +56,7 @@ I’m always eager to collaborate on projects that merge AI intelligence with re
 ---
 
 <!-- GIF/SVG produced by the workflow will be in output/ -->
-![Snake animation](https://raw.githubusercontent.com/<pranithagunti>/<pranithagunti>/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/pranithagunti/pranithagunti/output/github-contribution-grid-snake.svg)
 
 ---
 
