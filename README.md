@@ -4,14 +4,18 @@
 ---
 
 ### 💫 About Me
-
-I'm a student passionate about technology and innovation.
-
-Skilled in solving **Data Structures and Algorithms (DSA)** problems and proficient in **Machine Learning** and **Deep Learning** using Python. Experienced in **data visualization**, **full-stack web development**, **version control**, and **deployment**, with a strong focus on delivering efficient and scalable solutions.
-
-Throughout my learning journey, I’ve developed projects using stacks like **React**, **Next.js**, **Flask**, **MongoDB**, and **CNNs**. This has helped me grow in both frontend and backend development.
-
-When I'm not coding, you’ll find me exploring new tech, writing **tech blogs**, or attending **community meetups**. I'm always excited to take on new challenges and push the boundaries of what’s possible.
+I'm a passionate and curious student who loves building impactful technology.
+I specialize in AI, Machine Learning, and Full-Stack Web Development, with hands-on experience creating real-world projects such as an AI-Flood Management System, an Advanced Personal Finance Tracker, and intelligent web apps integrating Flask APIs, React UIs, and MongoDB backends.
+I enjoy solving complex Data Structures and Algorithms (DSA) problems and applying that logic to build scalable, efficient systems.
+My work spans across frontend, backend, and AI pipelines — from developing responsive interfaces in React / Next.js to training Deep Learning (CNN, NLP) models in Python.
+🧠 Tech Stack Highlights
+Languages: Python, Java, JavaScript,C.
+Frameworks & Tools: React, Next.js, Flask, Spring Boot,Fast API.
+Databases: MongoDB, MySQL
+ML/AI: TensorFlow, scikit-learn, OpenCV
+Version Control & Deployment: GitHub, Vercel, Netlify
+When I’m not coding, I’m usually exploring new AI trends, contributing to open source, or attending developer community events.
+I’m always eager to collaborate on projects that merge AI intelligence with real-world usability 🚀
 
 ---
 
