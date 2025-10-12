@@ -51,6 +51,11 @@ When I'm not coding, you’ll find me exploring new tech, writing **tech blogs**
 
 ---
 
+<!-- GIF/SVG produced by the workflow will be in output/ -->
+![Snake animation](https://raw.githubusercontent.com/<pranithagunti>/<pranithagunti>/output/github-contribution-grid-snake.svg)
+
+---
+
 <!---
 pranithagunti/pranithagunti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
