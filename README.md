@@ -51,6 +51,36 @@ I’m always eager to collaborate on projects that merge AI intelligence with re
 </div>
 
 ---
+
+name: Generate Snake
+
+on:
+  workflow_dispatch:    # Allows manual trigger
+  schedule:
+    - cron: '0 */12 * * *'  # Optional: runs every 12 hours
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push to output branch
+        uses: actions/configure-pages@v4
+        with:
+          branch: output
+          folder: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 ---
 
 ### 🔗 Connect with Me
