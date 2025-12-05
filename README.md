@@ -67,14 +67,20 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ---
 
-### 🚀 Featured Projects
+## 🔬 Currently Working On
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🌾 RAG-Enhanced Agri Assistant** | **(Current)** A multimodal Global Assistant for pest/disease detection. Provides real-time prevention advisory and multilingual support for farmers. | ![Python](https://img.shields.io/badge/-Python-black) ![LLM](https://img.shields.io/badge/-LLM%2FRAG-blue) ![React](https://img.shields.io/badge/-React-black) |
-| **💡 Pitch Perfect** | **(Current)** An AI Pitch Evaluation system. Uses LLMs to score startup pitches on business model, risks, and market viability with structured feedback. | ![OpenAI](https://img.shields.io/badge/-GenAI-green) ![FastAPI](https://img.shields.io/badge/-FastAPI-black) ![NextJS](https://img.shields.io/badge/-NextJS-black) |
-| **🌊 AI-Flood Management** | A real-time disaster management system predicting flood risks using Deep Learning and providing shelter information. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![Flask](https://img.shields.io/badge/-Flask-black) |
-| **💰 Personal Finance Tracker** | Advanced tracker to monitor expenses and income with visual analytics and MongoDB integration for data persistence. | ![React](https://img.shields.io/badge/-React-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) |
+### **🌾 RAG-Enhanced Global Assistant for Agricultural Pest & Disease Management**
+Multimodal and Prompt-Optimized RAG system for:
+- Real-time crop pest & disease diagnosis  
+- Preventive & treatment advisory  
+- Multilingual farmer assistance chatbot  
+- Fast semantic search for domain knowledge  
+
+### **🎤 Pitch Perfect – AI Pitch Evaluation & Feedback System**
+LLM-powered pitch analysis & evaluation tool:
+- Scores clarity, innovation, market size & feasibility  
+- Structured feedback for founders & incubators  
+- Recommendation engine for improving pitch quality  
 
 ---
 
@@ -93,6 +99,11 @@ I am a passionate computer science student bridging the gap between **Complex AI
   </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranithagunti&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
+
+---
+<p align="center">
+  <img src="https://profile-counter.glitch.me/pranithagunti/count.svg" />
+</p>
 
 ---
 
