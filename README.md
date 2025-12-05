@@ -17,6 +17,9 @@
   <a href="mailto:pranitha.gunti1609@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://sai-pranitha-gunti-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -47,7 +50,7 @@ I am a passionate computer science student bridging the gap between **Complex AI
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,java,js,c" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=python,java,js,c,ts" alt="Languages" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" alt="Frontend" />
@@ -70,12 +73,27 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ---
 
-### 🔬 Currently Working On
+### 🚀 Featured Projects
+
+Here are some of my top open-source contributions and personal projects:
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🌊 FloodSense AI** | **AI-Powered Disaster Management:** Analyzes geographical coordinates and terrain data to predict flood risks in real-time, aiding in disaster preparedness and response. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6) ![AI](https://img.shields.io/badge/-AI%2FML-orange) |
+| **🔐 Cyber Risk Predictor** | **Security Analytics Tool:** An ML-powered application that estimates cybersecurity risk levels for organizations based on vulnerability data and threat modeling. | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Scikit-Learn](https://img.shields.io/badge/-Sklearn-F7931E) |
+| **💰 FinTrack** | **Advanced Finance Dashboard:** A personal finance tracking platform featuring income/expense logging, visual analytics, and budget management to ensure financial health. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) ![React](https://img.shields.io/badge/-React-20232a) |
+| **🏥 HealthGuard** | **Lifestyle & Sleep Analyzer:** Analyzes user sleep patterns and lifestyle habits to provide actionable health insights and improve overall well-being. | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Pandas](https://img.shields.io/badge/-Pandas-150458) |
+| **✈️ Roam Ready** | **Smart Travel Guide:** A comprehensive travel companion app that assists users in planning itineraries, discovering destinations, and managing travel checklists. | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Flask](https://img.shields.io/badge/-Flask-000) |
+| **🌐 Personal Portfolio** | **Digital Identity:** My modern, responsive developer portfolio showcasing my skills, experience, and full project catalog. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6) ![NextJS](https://img.shields.io/badge/-NextJS-black) |
+
+---
+
+### 🔬 Research & Current Innovations
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🌾 RAG-Enhanced Agri Assistant** | **Multimodal AI System:** A global assistant for real-time pest/disease diagnosis, prevention advisory, and multilingual farmer support using semantic search. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/GenAI-RAG-blue) ![NLP](https://img.shields.io/badge/NLP-LLM-orange) |
-| **🎤 Pitch Perfect** | **AI Pitch Evaluator:** An LLM-powered tool that scores startup pitches on clarity, innovation, and feasibility, offering structured feedback for founders. | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/LLM-OpenAI-green) |
+| **🌾 RAG-Enhanced Agri Assistant** | **(In Progress)** A multimodal Global Assistant for pest/disease detection. Provides real-time prevention advisory and multilingual support using Semantic Search. | ![Python](https://img.shields.io/badge/-Python-black) ![LLM](https://img.shields.io/badge/-RAG-blue) |
+| **🎤 Pitch Perfect** | **(In Progress)** AI Pitch Evaluation system using LLMs to score startup pitches on business models and risks with structured feedback. | ![OpenAI](https://img.shields.io/badge/-GenAI-green) ![FastAPI](https://img.shields.io/badge/-FastAPI-black) |
 
 ---
 
@@ -105,8 +123,9 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ---
 
+<!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/pranithagunti/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=pranithagunti&label=Profile%20Views&color=0e75b6&style=flat" alt="Sai Pranitha's Profile Views" />
 </p>
 
 <div align="center">
