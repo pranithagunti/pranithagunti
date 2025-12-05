@@ -81,7 +81,7 @@ I am a passionate computer science student bridging the gap between **Complex AI
 | **🔐 Cyber Risk Predictor** | A Machine Learning application designed to estimate cybersecurity vulnerability levels and predict potential threats for organizations. | `Python` `Scikit-Learn` |
 | **💰 FinTrack** | A comprehensive personal finance tracker offering visual analytics for income and expenses to help users maintain financial health. | `JavaScript` `React`,`Next JS` |
 | **🏥 HealthGuard** | A lifestyle analysis tool that evaluates sleep patterns and daily habits to provide actionable recommendations for better well-being. | `Python` `Pandas` |
-| **✈️ Roam Ready** | A smart travel companion app that simplifies itinerary planning, destination discovery, and travel checklist management. | `Python` `Langchain`,`'Lang Graph`,Gradio` |
+| **✈️ Roam Ready** | A smart travel companion app that simplifies itinerary planning, destination discovery, and travel checklist management. | `Python` `Langchain`,`'Lang Graph`,`Gradio` |
 | **🌐 Personal Portfolio** | A modern, responsive digital identity platform showcasing my full project catalog, technical skills, and professional journey. | `TypeScript` `Next.js` |
 
 ---
@@ -129,5 +129,5 @@ I am a passionate computer science student bridging the gap between **Complex AI
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
   <br />
-  <i>"The best way to predict the future is to invent it."</i>
+  <i>Random Dev Quote-"The best way to predict the future is to invent it."</i>
 </div>
