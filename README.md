@@ -79,14 +79,14 @@ I am a passionate computer science student bridging the gap between **Complex AI
 | :--- | :--- | :--- |
 | **🌊 FloodSense AI** | An intelligent disaster management system that predicts flood risks in real-time using terrain data and geographical coordinates. | `TypeScript` `AI/ML` |
 | **🔐 Cyber Risk Predictor** | A Machine Learning application designed to estimate cybersecurity vulnerability levels and predict potential threats for organizations. | `Python` `Scikit-Learn` |
-| **💰 FinTrack** | A comprehensive personal finance tracker offering visual analytics for income and expenses to help users maintain financial health. | `JavaScript` `React`,`Next JS` |
+| **💰 FinTrack** | A comprehensive personal finance tracker offering visual analytics for income and expenses to help users maintain financial health. | `JavaScript` `React` |
 | **🏥 HealthGuard** | A lifestyle analysis tool that evaluates sleep patterns and daily habits to provide actionable recommendations for better well-being. | `Python` `Pandas` |
-| **✈️ Roam Ready** | A smart travel companion app that simplifies itinerary planning, destination discovery, and travel checklist management. | `Python` `Langchain`,`'Lang Graph`,`Gradio` |
+| **✈️ Roam Ready** | A smart travel companion app that simplifies itinerary planning, destination discovery, and travel checklist management. | `Python` `Langchain` |
 | **🌐 Personal Portfolio** | A modern, responsive digital identity platform showcasing my full project catalog, technical skills, and professional journey. | `TypeScript` `Next.js` |
 
 ---
 
-### 🔬 Research & Current Innovations(CURRENTLY WORKING ON):
+### 🔬 Research & Current Innovations
 
 | Innovation | Objective | Tech Core |
 | :--- | :--- | :--- |
@@ -95,9 +95,10 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ---
 
-### 🏆 GitHub Trophies
+### 🧠 Data Structures & Algorithms
+<!-- If your LeetCode username is different, change 'pranithagunti' in the link below -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranithagunti&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" />
+  <img src="https://leetcard.jacoblin.cool/pranithagunti?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -105,17 +106,16 @@ I am a passionate computer science student bridging the gap between **Complex AI
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pranithagunti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sai Pranitha's Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranithagunti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=pranithagunti&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" />
+  <br/><br/>
+  
+  <!-- General Stats & Top Langs (Simplified Layout) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pranithagunti1609-4480&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranithagunti1609-4480&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+  
   <br/>
+  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranithagunti&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
@@ -129,5 +129,5 @@ I am a passionate computer science student bridging the gap between **Complex AI
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
   <br />
-  <i>Random Dev Quote-"The best way to predict the future is to invent it."</i>
+  <i>"The best way to predict the future is to invent it."</i>
 </div>
