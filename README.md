@@ -54,7 +54,7 @@ I am a passionate computer science student bridging the gap between **Complex AI
 `MongoDB` `MySQL` `Firebase`
 
 **Tools & DevOps**  
-`Git & GitHub` `VS Code` `Postman` `Vercel`
+`Git & GitHub` `VS Code``Vercel`
 
 ---
 
@@ -62,9 +62,9 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🌊 FloodSense AI** | An intelligent disaster management system that predicts flood risks in real-time using terrain data and geographical coordinates. | `TypeScript` `AI/ML` |
+| **🌊 FloodSense AI** | An intelligent disaster management system that predicts flood risks in real-time using terrain data and geographical coordinates. | `TypeScript` `AI/ML` `Gradio` |
 | **🔐 Cyber Risk Predictor** | A Machine Learning application designed to estimate cybersecurity vulnerability levels and predict potential threats for organizations. | `Python` `Scikit-Learn` |
-| **💰 FinTrack** | A comprehensive personal finance tracker offering visual analytics for income and expenses to help users maintain financial health. | `JavaScript` `React` |
+| **💰 FinTrack** | A comprehensive personal finance tracker offering visual analytics for income and expenses to help users maintain financial health. | `JavaScript` `React` `Next JS`|
 | **🏥 HealthGuard** | A lifestyle analysis tool that evaluates sleep patterns and daily habits to provide actionable recommendations for better well-being. | `Python` `Pandas` |
 | **✈️ Roam Ready** | A smart travel companion app that simplifies itinerary planning, destination discovery, and travel checklist management. | `Python` `Langchain` |
 | **🌐 Personal Portfolio** | A modern, responsive digital identity platform showcasing my full project catalog, technical skills, and professional journey. | `TypeScript` `Next.js` |
