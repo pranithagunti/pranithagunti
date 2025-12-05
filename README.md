@@ -32,7 +32,6 @@ I am a passionate computer science student bridging the gap between **Complex AI
 - 🛠️ I specialize in **Python, MERN Stack, and Deep Learning (CNN/NLP)**.
 - 👯 I’m looking to collaborate on **Open Source & AI-driven SaaS products**.
 - 💬 Ask me about **React, Flask, Neural Networks, or Data Structures**.
-- ⚡ **Fun fact:** I treat training models like training pets—lots of patience and treats (data) required!
 
 ---
 
@@ -51,10 +50,10 @@ I am a passionate computer science student bridging the gap between **Complex AI
 `TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `Deep Learning (CNN/NLP)`
 
 **Databases**  
-`MongoDB` `MySQL` `Firebase`
+`MongoDB` `MySQL` 
 
 **Tools & DevOps**  
-`Git & GitHub` `VS Code``Vercel`
+`Git & GitHub` `VS Code` `Vercel`
 
 ---
 
