@@ -1,78 +1,103 @@
-<h1 align="center">Hi there 👋, I'm Sai Pranitha Gunti</h1>
-<h3 align="center">Aspiring Software Engineer | AI/ML Enthusiast | Lifelong Learner</h3>
-
----
-
-### 💫 About Me
-I'm a passionate and curious student who loves building impactful technology.
-I specialize in AI, Machine Learning, and Full-Stack Web Development, with hands-on experience creating real-world projects such as an AI-Flood Management System, an Advanced Personal Finance Tracker, and intelligent web apps integrating Flask APIs, React UIs, and MongoDB backends.
-I enjoy solving complex Data Structures and Algorithms (DSA) problems and applying that logic to build scalable, efficient systems.
-My work spans across frontend, backend, and AI pipelines — from developing responsive interfaces in React / Next.js to training Deep Learning (CNN, NLP) models in Python.
-
-### 🧠 Tech Stack Highlights
-
-Languages: Python, Java, JavaScript,C.
-
-Frameworks & Tools: React, Next.js, Flask, Spring Boot,Fast API.
-
-Databases: MongoDB, MySQL
-
-ML/AI: TensorFlow, scikit-learn, OpenCV
-
-Version Control & Deployment: GitHub, Vercel, Netlify
-
-When I’m not coding, I’m usually exploring new AI trends, contributing to open source, or attending developer community events.
-
-I’m always eager to collaborate on projects that merge AI intelligence with real-world usability 🚀
-
----
-## I’m currently working on:
-
-RAG-Enhanced Global Assistant for Agricultural Pest & Disease Management (Current)
-Multimodal + prompt-optimized RAG system for real-time pest disease detection, prevention advisory, and multilingual farmer assistance.
-Pitch Perfect – AI Pitch Evaluation & Feedback System (Current)
-LLM-powered startup pitch scoring with structured feedback on clarity, business model, risks, uniqueness & market viability.
-
----
-
-### 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
+<!-- Header Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranithagunti&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranithagunti&theme=radical" width="47%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> 
+  <h1>Hi there, I'm Sai Pranitha Gunti!</h1>
+  
+  <!-- Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
 </div>
 
----
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="mailto:pranitha.gunti1609@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sai-pranitha-gunti-4486772b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a> -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-pranitha-gunti-4486772b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pranitha.gunti1609@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<!---
-pranithagunti/pranithagunti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💫 About Me
+
+I am a passionate computer science student bridging the gap between **Complex AI/ML algorithms** and **User-friendly Web Applications**. I love solving DSA problems and building systems that solve real-world issues.
+
+- 🔭 I’m currently working on **Generative AI (RAG) & Predictive Modeling**
+- 🛠️ I specialize in **Python, MERN Stack, and Deep Learning (CNN/NLP)**
+- 👯 I’m looking to collaborate on **Open Source & AI-driven SaaS products**
+- 💬 Ask me about **React, Flask, Neural Networks, or Data Structures**
+- ⚡ Fun fact: I treat training models like training pets—lots of patience and treats (data) required!
+
+---
+
+### 💻 Technical Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><strong>Languages</strong></td>
+    <td align="center" width="90"><strong>Frontend</strong></td>
+    <td align="center" width="90"><strong>Backend</strong></td>
+    <td align="center" width="90"><strong>AI / ML</strong></td>
+    <td align="center" width="90"><strong>Database</strong></td>
+    <td align="center" width="90"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,c,js" width="40" height="40" alt="Languages" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" width="40" height="40" alt="Frontend" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask,spring,fastapi" width="40" height="40" alt="Backend" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,scikitlearn" width="40" height="40" alt="AI/ML" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" width="40" height="40" alt="Database" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" width="40" height="40" alt="Tools" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🌾 RAG-Enhanced Agri Assistant** | **(Current)** A multimodal Global Assistant for pest/disease detection. Provides real-time prevention advisory and multilingual support for farmers. | ![Python](https://img.shields.io/badge/-Python-black) ![LLM](https://img.shields.io/badge/-LLM%2FRAG-blue) ![React](https://img.shields.io/badge/-React-black) |
+| **💡 Pitch Perfect** | **(Current)** An AI Pitch Evaluation system. Uses LLMs to score startup pitches on business model, risks, and market viability with structured feedback. | ![OpenAI](https://img.shields.io/badge/-GenAI-green) ![FastAPI](https://img.shields.io/badge/-FastAPI-black) ![NextJS](https://img.shields.io/badge/-NextJS-black) |
+| **🌊 AI-Flood Management** | A real-time disaster management system predicting flood risks using Deep Learning and providing shelter information. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![Flask](https://img.shields.io/badge/-Flask-black) |
+| **💰 Personal Finance Tracker** | Advanced tracker to monitor expenses and income with visual analytics and MongoDB integration for data persistence. | ![React](https://img.shields.io/badge/-React-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) |
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=pranithagunti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sai Pranitha's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranithagunti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranithagunti&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <br />
+  <i>"The best way to predict the future is to invent it."</i>
+</div>
