@@ -89,12 +89,6 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranithagunti&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranithagunti&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_bust=1" />
-</p>
-  
-  <br/>
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranithagunti&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
