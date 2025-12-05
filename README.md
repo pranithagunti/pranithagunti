@@ -34,8 +34,38 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ### 💻 Technical Arsenal
 
-<table align="center"> <tr> <td align="center"><strong>Programming Languages</strong></td> <td align="center"><strong>Frontend Development</strong></td> <td align="center"><strong>Backend & APIs</strong></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,c" width="210"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" width="240"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=flask,fastapi,spring,nodejs" width="240"/> </td> </tr> </table> <table align="center"> <tr> <td align="center"><strong>AI & Machine Learning</strong></td> <td align="center"><strong>Databases</strong></td> <td align="center"><strong>DevOps & Tools</strong></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn" width="260"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" width="200"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" width="260"/> </td> </tr> </table>
-
+💻 Technical Arsenal
+🧾 Programming Languages
+Python
+Java
+JavaScript (ES6+)
+C Programming
+🎨 Frontend Development
+React.js
+Next.js
+HTML5 & CSS3
+Responsive UI / Bootstrap
+⚙ Backend & API Development
+Flask (REST APIs)
+FastAPI
+Spring Boot
+Node.js & Express
+🧠 Artificial Intelligence & Machine Learning
+Deep Learning (CNN, RNN, NLP)
+Model Training & Optimization
+TensorFlow | PyTorch | scikit-learn
+OpenCV (Computer Vision)
+🗄 Databases
+MongoDB
+MySQL
+Firebase Firestore
+Data Modeling & Query Optimization
+🛠 DevOps, Tools & Workflow
+Git & GitHub (Version Control)
+VS Code
+Postman (API Testing)
+Deployment: Vercel, Render, Netlify
+Agile & Documentation Practices
 ---
 
 ## 🔬 Currently Working On
