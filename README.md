@@ -94,9 +94,10 @@ I am a passionate computer science student bridging the gap between **Complex AI
 </div>
 
 ---
-<!-- SNAKE ANIMATION (LIGHT VERSION) -->
+h3 align="center">🐍 Contribution Activity</h3>
 <div align="center">
-  <img src="https://github.com/pranithagunti/pranithagunti/raw/output/github-contribution-grid-snake.svg" />
+  <!-- We use width=100% to stretch the months apart for better clarity -->
+  <img src="https://github.com/pranithagunti/pranithagunti/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 <!-- Profile Views Counter -->
