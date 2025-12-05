@@ -103,5 +103,5 @@ I am a passionate computer science student bridging the gap between **Complex AI
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
   <br />
-  <i>"The best way to predict the future is to invent it."</i>
+  <i>Random Dev Quote-"The best way to predict the future is to invent it."</i>
 </div>
