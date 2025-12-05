@@ -34,36 +34,7 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ### 💻 Technical Arsenal
 
-<table align="center">
-  <tr>
-    <td align="center" width="90"><strong>Languages</strong></td>
-    <td align="center" width="90"><strong>Frontend</strong></td>
-    <td align="center" width="90"><strong>Backend</strong></td>
-    <td align="center" width="90"><strong>AI / ML</strong></td>
-    <td align="center" width="90"><strong>Database</strong></td>
-    <td align="center" width="90"><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,c,js" width="40" height="40" alt="Languages" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" width="40" height="40" alt="Frontend" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask,spring,fastapi" width="40" height="40" alt="Backend" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,scikitlearn" width="40" height="40" alt="AI/ML" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" width="40" height="40" alt="Database" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" width="40" height="40" alt="Tools" />
-    </td>
-  </tr>
-</table>
+<table align="center"> <tr> <td align="center"><strong>Programming Languages</strong></td> <td align="center"><strong>Frontend Development</strong></td> <td align="center"><strong>Backend & APIs</strong></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,c" width="210"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" width="240"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=flask,fastapi,spring,nodejs" width="240"/> </td> </tr> </table> <table align="center"> <tr> <td align="center"><strong>AI & Machine Learning</strong></td> <td align="center"><strong>Databases</strong></td> <td align="center"><strong>DevOps & Tools</strong></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn" width="260"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" width="200"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" width="260"/> </td> </tr> </table>
 
 ---
 
