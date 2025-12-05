@@ -38,38 +38,23 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ### 💻 Technical Arsenal
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120"><strong>Languages</strong></td>
-      <td align="center" width="120"><strong>Frontend</strong></td>
-      <td align="center" width="120"><strong>Backend</strong></td>
-      <td align="center" width="120"><strong>AI / ML</strong></td>
-      <td align="center" width="120"><strong>Database</strong></td>
-      <td align="center" width="120"><strong>Tools</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,java,js,c,ts" alt="Languages" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" alt="Frontend" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=flask,fastapi,spring,nodejs,express" alt="Backend" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI/ML" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Tools" />
-      </td>
-    </tr>
-  </table>
-</div>
+**Languages**  
+`Python` `Java` `JavaScript (ES6+)` `TypeScript` `C`
+
+**Frontend Development**  
+`React.js` `Next.js` `HTML5 & CSS3` `Bootstrap` `Tailwind`
+
+**Backend & API**  
+`Flask` `FastAPI` `Spring Boot` `Node.js` `Express`
+
+**AI & Machine Learning**  
+`TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `Deep Learning (CNN/NLP)`
+
+**Databases**  
+`MongoDB` `MySQL` `Firebase`
+
+**Tools & DevOps**  
+`Git & GitHub` `VS Code` `Postman` `Vercel`
 
 ---
 
@@ -95,10 +80,10 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ---
 
-### 🧠 Data Structures & Algorithms
-<!-- If your LeetCode username is different, change 'pranithagunti' in the link below -->
+### 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/pranithagunti?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pranithagunti&theme=tokyonight&no-frame=true&title=Commits,Repositories,Experience" />
 </div>
 
 ---
@@ -106,13 +91,9 @@ I am a passionate computer science student bridging the gap between **Complex AI
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=pranithagunti&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" />
-  <br/><br/>
-  
-  <!-- General Stats & Top Langs (Simplified Layout) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pranithagunti1609-4480&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranithagunti1609-4480&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+  <!-- General Stats & Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pranithagunti&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranithagunti&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
   
   <br/>
   <!-- Streak -->
