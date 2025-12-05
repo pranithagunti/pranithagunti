@@ -94,11 +94,10 @@ I am a passionate computer science student bridging the gap between **Complex AI
 </div>
 
 ---
-<!-- SNAKE ANIMATION -->
+<!-- SNAKE ANIMATION (LIGHT VERSION) -->
 <div align="center">
-  <img src="https://github.com/pranithagunti/pranithagunti/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/pranithagunti/pranithagunti/raw/output/github-contribution-grid-snake.svg" />
 </div>
----
 
 <!-- Profile Views Counter -->
 <p align="center">
