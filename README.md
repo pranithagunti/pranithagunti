@@ -26,6 +26,14 @@ When I’m not coding, I’m usually exploring new AI trends, contributing to op
 I’m always eager to collaborate on projects that merge AI intelligence with real-world usability 🚀
 
 ---
+## I’m currently working on:
+
+RAG-Enhanced Global Assistant for Agricultural Pest & Disease Management (Current)
+Multimodal + prompt-optimized RAG system for real-time pest disease detection, prevention advisory, and multilingual farmer assistance.
+Pitch Perfect – AI Pitch Evaluation & Feedback System (Current)
+LLM-powered startup pitch scoring with structured feedback on clarity, business model, risks, uniqueness & market viability.
+
+---
 
 ### 🛠️ Tech Stack
 
