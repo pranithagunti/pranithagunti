@@ -75,25 +75,23 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ### 🚀 Featured Projects
 
-Here are some of my top open-source contributions and personal projects:
-
-| Project | Description | Tech Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🌊 FloodSense AI** | **AI-Powered Disaster Management:** Analyzes geographical coordinates and terrain data to predict flood risks in real-time, aiding in disaster preparedness and response. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6) ![AI](https://img.shields.io/badge/-AI%2FML-orange) |
-| **🔐 Cyber Risk Predictor** | **Security Analytics Tool:** An ML-powered application that estimates cybersecurity risk levels for organizations based on vulnerability data and threat modeling. | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Scikit-Learn](https://img.shields.io/badge/-Sklearn-F7931E) |
-| **💰 FinTrack** | **Advanced Finance Dashboard:** A personal finance tracking platform featuring income/expense logging, visual analytics, and budget management to ensure financial health. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) ![React](https://img.shields.io/badge/-React-20232a) |
-| **🏥 HealthGuard** | **Lifestyle & Sleep Analyzer:** Analyzes user sleep patterns and lifestyle habits to provide actionable health insights and improve overall well-being. | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Pandas](https://img.shields.io/badge/-Pandas-150458) |
-| **✈️ Roam Ready** | **Smart Travel Guide:** A comprehensive travel companion app that assists users in planning itineraries, discovering destinations, and managing travel checklists. | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Flask](https://img.shields.io/badge/-Flask-000) |
-| **🌐 Personal Portfolio** | **Digital Identity:** My modern, responsive developer portfolio showcasing my skills, experience, and full project catalog. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6) ![NextJS](https://img.shields.io/badge/-NextJS-black) |
+| **🌊 FloodSense AI** | An intelligent disaster management system that predicts flood risks in real-time using terrain data and geographical coordinates. | `TypeScript` `AI/ML` |
+| **🔐 Cyber Risk Predictor** | A Machine Learning application designed to estimate cybersecurity vulnerability levels and predict potential threats for organizations. | `Python` `Scikit-Learn` |
+| **💰 FinTrack** | A comprehensive personal finance tracker offering visual analytics for income and expenses to help users maintain financial health. | `JavaScript` `React`,`Next JS` |
+| **🏥 HealthGuard** | A lifestyle analysis tool that evaluates sleep patterns and daily habits to provide actionable recommendations for better well-being. | `Python` `Pandas` |
+| **✈️ Roam Ready** | A smart travel companion app that simplifies itinerary planning, destination discovery, and travel checklist management. | `Python` `Langchain`,`'Lang Graph`,Gradio` |
+| **🌐 Personal Portfolio** | A modern, responsive digital identity platform showcasing my full project catalog, technical skills, and professional journey. | `TypeScript` `Next.js` |
 
 ---
 
-### 🔬 Research & Current Innovations
+### 🔬 Research & Current Innovations(CURRENTLY WORKING ON):
 
-| Project | Description | Stack |
+| Innovation | Objective | Tech Core |
 | :--- | :--- | :--- |
-| **🌾 RAG-Enhanced Agri Assistant** | **(In Progress)** A multimodal Global Assistant for pest/disease detection. Provides real-time prevention advisory and multilingual support using Semantic Search. | ![Python](https://img.shields.io/badge/-Python-black) ![LLM](https://img.shields.io/badge/-RAG-blue) |
-| **🎤 Pitch Perfect** | **(In Progress)** AI Pitch Evaluation system using LLMs to score startup pitches on business models and risks with structured feedback. | ![OpenAI](https://img.shields.io/badge/-GenAI-green) ![FastAPI](https://img.shields.io/badge/-FastAPI-black) |
+| **🌾 RAG Agri-Assistant** | Building a multimodal global assistant for real-time crop pest diagnosis and multilingual farmer advisory. | `LLM` `RAG` `Python` |
+| **🎤 Pitch Perfect** | Developing an AI scoring engine for startup pitches, analyzing business viability and risk with structured feedback. | `GenAI` `FastAPI` |
 
 ---
 
