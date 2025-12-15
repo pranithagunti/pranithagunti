@@ -110,7 +110,6 @@ I am a passionate computer science student bridging the gap between **Complex AI
 ---
 
 <!-- Profile Views Counter -->
-<i> "                                                       THANK YOU FOR VISITING MY PROFILE.            </i>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranithagunti&label=Profile%20Views&color=0e75b6&style=flat" alt="Sai Pranitha's Profile Views" />
 </p>
