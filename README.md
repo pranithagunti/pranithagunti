@@ -35,6 +35,20 @@ I am a passionate computer science student bridging the gap between **Complex AI
 
 ---
 
+### 🌱 Focus & Ambitions
+
+- **🧠 I'm currently learning:**  
+  Advanced **RAG Agents**, **Cloud Services (AWS/Azure)**, and Containerization with **Docker**.
+
+- **🤝 I'm looking to collaborate on:**  
+  **Open Source AI/ML projects**, **RAG Systems**, **Generative AI** applications, and scalable SaaS products.
+
+- **🎯 Career Goals:**  
+  My goal is to become a leading **AI Engineer**, **Data Engineer**, or **DevOps-enabled Software Developer**, contributing to impactful projects that solve real-world problems.
+
+---
+
+
 ### 💻 Technical Arsenal
 
 **Languages**  
@@ -96,6 +110,7 @@ I am a passionate computer science student bridging the gap between **Complex AI
 ---
 
 <!-- Profile Views Counter -->
+<i> " THANK YOU FOR VISITING MY PROFILE. "</i>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranithagunti&label=Profile%20Views&color=0e75b6&style=flat" alt="Sai Pranitha's Profile Views" />
 </p>
